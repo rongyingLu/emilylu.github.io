@@ -1,6 +1,6 @@
 ---
 permalink: /
-
+title: "Current"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,10 +12,12 @@ redirect_from:
 
 
 
+ I am looking for the 2024 fall PhD position in bioinformatics.
+
 Bio
 ======
 
-My name is Emily Lu, and I recently graduated with a B.S. in Biomedical Engineering at the University of California, Irvine. I am looking for the 2024 fall PhD position in bioinformatics.
+My name is Emily Lu, and I recently graduated with a B.S. in Biomedical Engineering at the University of California, Irvine.
 
 My research interests are computational biology, gene express, precision health, and bioinformatics
 
@@ -24,7 +26,7 @@ My research interests are computational biology, gene express, precision health,
 
 
 Education
-------
+======
 
 - Bs in Biomedical Engineering, 2023
 
