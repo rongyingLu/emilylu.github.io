@@ -1,7 +1,6 @@
 ---
-title: "Research in Genetics"
-excerpt: "About the research"
-
+title: "Projects"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
