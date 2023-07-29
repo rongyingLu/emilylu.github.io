@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : Emily Lu
-  avatar           : "profile.png"
+  avatar           : "/images/head.png"
   bio              : 
   location         : Irvine
   employer         :
