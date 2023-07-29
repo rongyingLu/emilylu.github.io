@@ -5,7 +5,7 @@ excerpt: "About the research"
 collection: Research
 ---
 
-# **Identifying Gene Expression Patterns in Adult Drosophila melanogaster Testes using Single-Cell RNA Sequencing Data**
+#  [**Identifying Gene Expression Patterns in Adult Drosophila melanogaster Testes using Single-Cell RNA Sequencing Data**](portfolio-1.md)
 
 The aim of this study is to gain insights into the molecular mechanisms that define and regulate different cell types within the testes of this model organism.
 
