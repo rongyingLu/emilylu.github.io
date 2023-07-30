@@ -17,7 +17,7 @@ Cardiovascular Health: Heart rate (HR) and Heart Rate Variability (HRV) measurem
 Data Analysis: Statistical analyses were performed to examine the relationship between negative emotions and sleep quality. The effects of negative emotions on deep sleep, REM sleep, HRV, and HR were quantified using appropriate statistical methods.
 
 **Key Findings:**
-
+![Correlation Heap Map](/images/p5.png)
 Deep Sleep: An increase in negative emotions was associated with shorter periods of deep sleep.
 Heart Rate Variability (HRV): An increase in negative emotions resulted in reduced HRV, indicating potential autonomic nervous system disturbances.
 Heart Rate (HR): No conclusive relationship was found between negative emotions and heart rate, as the p-value was greater than 0.05.
