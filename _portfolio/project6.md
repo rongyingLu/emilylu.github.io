@@ -1,5 +1,5 @@
 ---
-title: "EAT/US Imaging for Precision Cancer Therapy"
+title: "Advancing Precision Cancer Therapy through Electroacoustic Tomography (EAT)/Ultrasound (US) Imaging"
 layout: single
 ---
 **Goals and Objectives:**
