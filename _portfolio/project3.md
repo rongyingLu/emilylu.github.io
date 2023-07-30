@@ -1,5 +1,5 @@
 ---
-title: "De Novo Gene Assembly"
+title: "De Novo Gene Assembly (On Going)"
 layout: single
 ---
 
