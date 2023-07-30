@@ -15,3 +15,7 @@ The primary goal of this project is to develop a versatile script capable of sim
 # 3. [**De Novo Gene Assembly (On Going)**]({{ site.baseurl }}{% link _portfolio/project3.md %})
 
 The main objective of this ongoing research project is to achieve highly contiguous genome assemblies for various Drosophila melanogaster species. The project aims to investigate the impact of combining PacBio and Illumina reads on assembly quality, with a specific focus on reducing genome fragmentation. By leveraging advanced assembly techniques and tools, we seek to generate more complete and accurate genome sequences for further analysis and interpretation.
+
+# 4. [**Transposable Element Expression in Drosophila (On Going)**]({{ site.baseurl }}{% link _portfolio/project4.md %})
+
+This ongoing project focuses on investigating the expression of transposable elements (TEs) in Drosophila using single-cell RNA sequencing data from male_testis_adult samples. By employing the scTE computational framework, we aim to profile TE expression at the single-cell level. This research will provide valuable insights into TE activity and regulation within individual cells.
