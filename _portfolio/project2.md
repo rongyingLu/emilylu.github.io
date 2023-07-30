@@ -4,7 +4,6 @@ title: "Simulation of Gene Expression Tables and Probabilities Analysis"
 layout: single
 ---
 
-#  [**Gene Expression Table Simulation and Analysis**](portfolio-1.md)
 
 The primary goal of this project is to develop a versatile script capable of simulating gene expression tables from various types of CSV files and performing probabilistic analyses to assess the significance of observed gene counts. The script generates three crucial outputs: the simulation table, higher probabilities table, and lower probabilities table.
 
