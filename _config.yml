@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Emily Lu
+title                    : Main Page
 title_separator          : "-"
 name                     : Emily Lu
 description              : &description "personal description"
@@ -170,16 +170,15 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
+
   enable_coderay: false
 
 
 # Collections
 collections:
- 
-
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:path/
 
 
 # Defaults
