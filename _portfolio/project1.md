@@ -1,6 +1,6 @@
 ---
 
-excerpt: "About the research"
+excerpt: 
 
 collection: Research
 ---

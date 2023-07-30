@@ -1,6 +1,6 @@
 ---
-title: "Research in Genetics"
-excerpt: "About the research"
+
+excerpt: 
 
 collection: Research
 ---
