@@ -1,5 +1,5 @@
 ---
-title: "Identifying Gene Expression Patterns in Adult Drosophila melanogaster Testes using Single-Cell RNA Sequencing Data"
+
 excerpt: "About the research"
 
 collection: Research
