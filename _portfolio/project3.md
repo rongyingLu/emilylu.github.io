@@ -16,7 +16,7 @@ To test the hypothesis, I performed genome assemblies using different combinatio
 3. **Polishing with Medaka:** Medaka was used for further polishing of the assemblies. One round of polishing with Medaka was performed.
 4. **Gene Completeness Assessment with BUSCO:** The completeness of the gene sets in the assemblies was evaluated using BUSCO. If the duplicated BUSCOs exceeded 1% in the assembly, the duplicated sequences were removed. If the duplicated BUSCOs were less than 1%, short-read polishing using pilon was conducted, followed by a re-evaluation of the completeness using BUSCO.
 
-## Results of the Research
+## Current Results of the Research
 
 At the current stage of the project, I have completed the Flye and racon assemblies and performed BUSCO analysis on them. The Flye assembly showed larger contigs compared to the racon assembly. However, the expected N50 values were not achieved for most of the reads, suggesting that some of the reads may not have been successfully assembled. As a result, a second Flye analysis was initiated, with subread lengths of 10,000 and 5,000 as the threshold. The researchers hope that this will lead to improved N50 values.
 
@@ -24,7 +24,7 @@ Regarding the BUSCO results, the Flye assembly outperformed the racon assembly, 
 
 ## Cited Journal Articles or Book Chapters
 
-As part of the research, the team referred to the following journal article:
+As part of the research, we referred to the following journal article:
 
 **Paper Title:** Highly contiguous assemblies of 101 drosophilid genomes
 **Link:** https://elifesciences.org/articles/66405
