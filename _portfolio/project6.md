@@ -11,7 +11,7 @@ To determine how EAT/US can be used for more accurately monitoring electroporati
 
 **Introduction:**
 Irreversible electroporation (IRE) is a nonthermal tissue ablation technique that causes cell death in tumor tissue while preserving the extracellular matrix and inducing minimal inflammation, making it a promising treatment for unresectable liver tumors. Real-time monitoring of the electroporation process is critical to ensure the tumor has been fully treated. EAT, a novel imaging technique, involves simultaneous acquisition of electroacoustic and ultrasound signals with the same probe, making it superior for this purpose. The significance of this research lies in developing non-invasive imaging techniques to accurately predict complete necrotic tissue (IRE zone) after IRE procedures and identify inadequately treated reversibly electroporated tumor tissues (RE zone) for effective clinical application.
-
+![EAT](/images/p6.png)
 
 **Methods:**
 The research involves building the EAT system, which uses pulsed electric fields for in-situ monitoring. Acoustic signals generated due to thermal expansion are detected by an ultrasonic transducer. The signal analysis and image reconstruction are performed using MATLAB. Ex vivo tests on cells and chicken breast will be conducted as the ultimate goal is human tissue analysis.
