@@ -19,3 +19,6 @@ The main objective of this ongoing research project is to achieve highly contigu
 # 4. [**Transposable Element Expression in Drosophila (On Going)**]({{ site.baseurl }}{% link _portfolio/project4.md %})
 
 This ongoing project focuses on investigating the expression of transposable elements (TEs) in Drosophila using single-cell RNA sequencing data from male_testis_adult samples. By employing the scTE computational framework, we aim to profile TE expression at the single-cell level. This research will provide valuable insights into TE activity and regulation within individual cells.
+
+# 5. [**Sleep Monitoring and Emotional Impact on Pregnant Women**]({{ site.baseurl }}{% link _portfolio/project5.md %})
+This project used a questionnaire to collect weekly Ecological Momentary Assessment (weeklyEMA) data from pregnant women. The primary objective was to monitor the sleep status during different pregnancy stages and examine the impact of negative emotions on sleep quality and cardiovascular health.
