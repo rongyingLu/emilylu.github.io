@@ -1,8 +1,7 @@
 ---
 
-excerpt: 
-
-collection: Research
+title: "Simulation of Gene Expression Tables and Probabilities Analysis"
+layout: single
 ---
 
 #  [**Gene Expression Table Simulation and Analysis**](portfolio-1.md)
