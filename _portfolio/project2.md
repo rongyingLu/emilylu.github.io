@@ -8,7 +8,7 @@ layout: single
 The primary goal of this project is to develop a versatile script capable of simulating gene expression tables from various types of CSV files and performing probabilistic analyses to assess the significance of observed gene counts. The script generates three crucial outputs: the simulation table, higher probabilities table, and lower probabilities table.
 
 
-![UI Image](images/p2.1.png)
+![Image](images/p2.1.png)
 
 
 The above is the figure of the app UI. 
