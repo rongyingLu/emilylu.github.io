@@ -175,11 +175,9 @@ kramdown:
 
 # Collections
 collections:
- 
-
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:path/
 
 
 # Defaults
