@@ -1,7 +1,7 @@
 ---
-title: "Projects"
-
-collection: portfolio
+title: "Portfolio"
+layout: single
+permalink: /portfolio/
 ---
 
 # 1. [**Identifying Gene Expression Patterns in Adult Drosophila melanogaster Testes using Single-Cell RNA Sequencing Data**](project1.md)
