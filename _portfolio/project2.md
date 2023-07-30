@@ -7,7 +7,7 @@ layout: single
 
 The primary goal of this project is to develop a versatile script capable of simulating gene expression tables from various types of CSV files and performing probabilistic analyses to assess the significance of observed gene counts. The script generates three crucial outputs: the simulation table, higher probabilities table, and lower probabilities table.
 
-[APP Image](table.png)
+![APP Image](table.png)
 The above is the figure of the app UI. 
 
 **Step 1: Simulation for Gene Expression Table** The initial step involves simulating the gene expression table to determine if the observed gene counts are statistically significant or simply due to chance. The key challenge is ensuring that the sum of genes in the simulated table matches the sum of genes in the input table. To tackle this, the script employs a custom randomization method using R's powerful `sample` function. This approach guarantees that each gene has an equal probability of being assigned to any cell position.
